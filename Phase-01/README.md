@@ -26,6 +26,10 @@ Each solution is implemented in C and addresses a specific problem from the chal
      **Example**: `"I love coding"` → `"coding love I"`
    - 📂 **File**: `03-ReverseWords.c`
 
+2. **Exercise 4: Paranthese validation Function**
+   - 📜 **Description**: Create a function that checks the validation of Paranthese, if they was closed in the right order.
+   - 📂 **File**: `04-ValidParantheseChecker.c`
+
 ## ▶️ How to Run
 
 To compile and run any of the solutions, use the following commands:
