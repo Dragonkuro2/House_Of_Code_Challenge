@@ -66,4 +66,4 @@ If you want to contribute:
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Dragonkuro2/House_Of_Code_Challenge/tree/main?tab=MIT-1-ov-file) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Dragonkuro2/House_Of_Code_Challenge/blob/main/LICENSE) file for details.
